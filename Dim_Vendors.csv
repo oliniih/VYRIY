@@ -1,0 +1,9 @@
+﻿VendorID,VendorName,Country,ContractLeadTimeDays,ReliabilityTier
+VND-01,MatrixTech Electronics,China,18,Tier-2
+VND-02,OpticEye Systems,Taiwan,14,Tier-1
+VND-03,SkyLink RF Corp,China,21,Tier-2
+VND-04,CarbonForm UA,Ukraine,5,Tier-1
+VND-05,AeroDrive Motors,China,16,Tier-1
+VND-06,FiberCore Photonics,Poland,9,Tier-1
+VND-07,VoltPack Energy UA,Ukraine,4,Tier-1
+VND-08,Shenzhen MicroNav,China,25,Tier-3

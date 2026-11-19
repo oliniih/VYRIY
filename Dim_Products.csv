@@ -1,0 +1,7 @@
+﻿ProductID,ProductName,Category,TargetAssemblyMin,UnitPrice_USD,TargetMarginPct
+UAV-01,Vyriy-7 FPV,FPV Strike,40,380,0.22
+UAV-02,Vyriy-8 Standard,FPV Strike,48,440,0.24
+UAV-03,Vyriy-10 Heavy,Heavy Bomber,65,620,0.26
+UAV-04,Vyriy-10 Fiber,Fiber-Optic FPV,80,890,0.28
+UAV-05,Vyriy-13 Bomber,Heavy Bomber,95,1150,0.3
+UAV-06,Vyriy-Wing Recon,Fixed-Wing Recon,130,2400,0.32

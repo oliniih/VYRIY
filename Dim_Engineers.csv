@@ -1,0 +1,25 @@
+﻿EngineerID,EngineerName,Workshop,Grade,HireDate
+ENG-01,Сидоренко Андрій,Цех №1 (FPV),Senior,2024-03-15
+ENG-02,Коваленко Олексій,Цех №1 (FPV),Senior,2024-05-10
+ENG-03,Петренко Віктор,Цех №1 (FPV),Middle,2025-01-20
+ENG-04,Гриценко Дмитро,Цех №1 (FPV),Middle,2025-04-12
+ENG-05,Бондаренко Максим,Цех №1 (FPV),Middle,2025-08-01
+ENG-06,Ткаченко Ігор,Цех №1 (FPV),Junior,2026-04-15
+ENG-07,Кравченко Тарас,Цех №1 (FPV),Junior,2026-07-01
+ENG-08,Олійник Сергій,Цех №1 (FPV),Junior,2026-08-18
+ENG-09,Мельник Олександр,Цех №2 (Heavy & Fiber),Senior,2024-02-01
+ENG-10,Шевчук Роман,Цех №2 (Heavy & Fiber),Senior,2024-06-18
+ENG-11,Савченко Євген,Цех №2 (Heavy & Fiber),Middle,2025-02-14
+ENG-12,Руденко Артем,Цех №2 (Heavy & Fiber),Middle,2025-06-09
+ENG-13,Мороз Владислав,Цех №2 (Heavy & Fiber),Middle,2025-11-03
+ENG-14,Лисенко Денис,Цех №2 (Heavy & Fiber),Junior,2026-05-10
+ENG-15,Павленко Богдан,Цех №2 (Heavy & Fiber),Junior,2026-07-20
+ENG-16,Кузьменко Вадим,Цех №2 (Heavy & Fiber),Junior,2026-09-01
+ENG-17,Романенко Юрій,Цех №3 (Special & Recon),Senior,2024-01-15
+ENG-18,Захарченко Павло,Цех №3 (Special & Recon),Senior,2024-08-22
+ENG-19,Поліщук Микола,Цех №3 (Special & Recon),Middle,2025-03-11
+ENG-20,Гаврилюк Назар,Цех №3 (Special & Recon),Middle,2025-09-15
+ENG-21,Василенко Олег,Цех №3 (Special & Recon),Middle,2026-01-12
+ENG-22,Демченко Ілля,Цех №3 (Special & Recon),Junior,2026-06-01
+ENG-23,Семенюк Кирило,Цех №3 (Special & Recon),Junior,2026-08-05
+ENG-24,Тимошенко Ярослав,Цех №3 (Special & Recon),Junior,2026-09-14

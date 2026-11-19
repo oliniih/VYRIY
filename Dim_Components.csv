@@ -1,0 +1,25 @@
+﻿ComponentID,ComponentName,Category,ABC_Class,UnitCost_USD,VendorID
+CMP-101,Польотний контролер F405 v4,Electronics,A,42.0,VND-01
+CMP-102,Польотний контролер H743 Pro,Electronics,A,68.0,VND-08
+CMP-103,ESC Регулятор 4-в-1 60A,Electronics,A,48.0,VND-01
+CMP-104,Відеопередавач VTX 5.8GHz 2.5W,RF & Comms,A,36.0,VND-03
+CMP-105,Приймач керування ExpressLRS 915MHz,RF & Comms,B,16.0,VND-03
+CMP-106,Приймач керування Crossfire Diversity,RF & Comms,B,34.0,VND-03
+CMP-107,Камера денна Starlight 1200TVL,Optics,B,24.0,VND-02
+CMP-108,Камера тепловізійна Thermal-256,Optics,A,290.0,VND-02
+CMP-109,Камера тепловізійна Thermal-640,Optics,A,620.0,VND-02
+CMP-110,Мотор безколекторний 2807 1300KV,Propulsion,B,15.5,VND-05
+CMP-111,Мотор безколекторний 3115 900KV,Propulsion,B,24.0,VND-05
+CMP-112,Мотор важкий 4214 400KV,Propulsion,A,46.0,VND-05
+CMP-113,Рама карбонова 7 дюймів,Airframe,C,18.0,VND-04
+CMP-114,Рама карбонова 10 дюймів посилена,Airframe,B,32.0,VND-04
+CMP-115,Рама карбонова 13 дюймів Bomber,Airframe,B,54.0,VND-04
+CMP-116,Планер крила композитний Recon,Airframe,A,380.0,VND-04
+CMP-117,Котушка оптоволокна 10 км з платою,Fiber-Optic,A,310.0,VND-06
+CMP-118,Котушка оптоволокна 15 км посилена,Fiber-Optic,A,430.0,VND-06
+CMP-119,АКБ 6S2P 8400mAh Li-Ion,Power,B,52.0,VND-07
+CMP-120,АКБ 6S3P 12600mAh High-Discharge,Power,A,78.0,VND-07
+CMP-121,Плата ініціації та безпеки,Electronics,B,19.0,VND-07
+CMP-122,GPS/GLONASS модуль M10 з компасом,Navigation,B,21.0,VND-08
+CMP-123,Антена спрямована Патч + Клевер,RF & Comms,C,9.5,VND-03
+CMP-124,"Пропелери карбон-нейлон 7/10"" (комплект)",Propulsion,C,4.5,VND-05
